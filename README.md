@@ -2,7 +2,12 @@
 
 This project demonstrates Python file handling, the `os` module, regular expressions, a manually implemented sorting algorithm, and a manually implemented search algorithm.
 
+## To Clone Repository run:
+
+git clone https://github.com/Damiemmy/bincom_second_contact_session.git
+
 ## Project contents
+
 
 ```text
 second_assignment/
